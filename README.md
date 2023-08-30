@@ -1,1 +1,2 @@
 # MyObsidian
+a cool edit
