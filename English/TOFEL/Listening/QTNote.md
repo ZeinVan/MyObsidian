@@ -14,7 +14,7 @@ I’ m looking for/I want to / I plan to / I need to / I am wondering if / I’ 
 
 # 内容主旨题（F）：
 
-出现的四个特征：开头/重复最多的内容/例子，经历，背景知识（第一段）然后引出主题/特殊位置⚠️
+出现的四个特征：开头/重复最多的内容/例子，经历，背景知识（第一段）然后引出主题/特殊位置
 
 What is the conversation mainly about?
 
