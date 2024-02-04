@@ -172,7 +172,6 @@ Because she wants to <font color="red">give definition for</font> the ..
 Why does professor mention about these people
 
 Because she wants to <font color="red">give examples to</font> help student better understand what is FOMO.
-
 #### 主题层次结构4:强调
 
 微观出题，强调什么细节就是什么

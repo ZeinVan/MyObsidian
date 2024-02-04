@@ -7,7 +7,7 @@
 **應該不至麻木了吧**
 
 #### Continue Languages Explore 
-[[Set Sail on Your English Odyssey\|🇺🇸English]]           [[ようこそ、日本語の探求者たちへ！\|🇯🇵日本語]]  
+# [[Set Sail on Your English Odyssey\|🇺🇸English]]           [[🇯🇵ようこそ、日本語の探求者たちへ！|🇯🇵日本語]]  
 
 
 
